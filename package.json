@@ -1,0 +1,12 @@
+{
+  "name": "backendcourse",
+  "version": "1.0.0",
+  "description": "this is backend course",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "sudhansu",
+  "license": "ISC",
+  "type": "module"
+}
